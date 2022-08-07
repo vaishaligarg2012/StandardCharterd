@@ -1,7 +1,7 @@
 public class StaticBlock {
 
     static {
-        System.out.println("I am static block");
+        System.out.println("I am from static block");
     }
     public StaticBlock(){
         System.out.println("I am from constructor");
